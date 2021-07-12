@@ -1,0 +1,13 @@
+cluster
+config
+__pycache__
+*.pth
+Transformers
+tools 
+test_features.sh
+train_base.py 
+train_baseline.sh 
+train_lanuch.sh 
+train_lanuch1.sh
+train_lanuch2.sh 
+train_ddp.py 
